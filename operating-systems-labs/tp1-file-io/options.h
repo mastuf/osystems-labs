@@ -1,0 +1,1 @@
+char* option(int argc, char* argv[], int* isFile);

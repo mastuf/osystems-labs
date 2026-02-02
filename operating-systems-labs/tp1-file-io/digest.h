@@ -1,0 +1,1 @@
+void digestZ(const char* input, const char* digestName, int isFile);
